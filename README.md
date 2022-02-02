@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan @HernandezJuan8
-- 👀 I’m interested in ... AI,game programming and computer graphics
+- 👀 I’m interested in ... AI ,Cybersecurity ,and graphics 
 - 🌱 I’m currently learning ... Copmuter Science in School
 - 💞️ I’m looking to collaborate on ... any cool projects to become a better student and learn new things
 - 📫 How to reach me ... email me hernandez.juan8@outlook.com
